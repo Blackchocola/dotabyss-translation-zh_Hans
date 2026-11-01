@@ -1,5 +1,5 @@
 {
-  "names": "daff4b47778014c3644baf9b4d6e4323",
+  "names": "30e49cfce5d2ff621a6dec067289b27c",
   "ui_texts": "0fe9ffb73fc0895dd89ea659abcf172d",
   "static": "ffc67da4bec209fea9fb885cde3d89f2",
   "novels": {
@@ -890,9 +890,9 @@
     "men_10770100001": "c50543576fff047cac81e1ec14b6d1c1",
     "men_10770100002": "62f62ecdbd1503fc9377923c4b7d0452",
     "men_10770100003": "87a91cfb8b811326540129894bf5c180",
-    "evs_10200070101": "d42dc2dc83e867ee63ea08a9669ebb58",
-    "evs_10200070201": "566645ce76f753e7ccbf7b1182dc513e",
-    "evs_10200070301": "a2f51a892abd5a4901cb1b9da49e21be",
+    "evs_10200070101": "bbd59e3219ff5a84ec10b6496dbc38a4",
+    "evs_10200070201": "a0671e05c0718feca33a2f0b3361f10d",
+    "evs_10200070301": "f900ff5f36572b158f7396600079b195",
     "evs_10300010101": "bfd6ace8d89cbb52180d272cf72e6de9",
     "evs_10300010201": "de54cc2659302445ce4d9aca0a73d292",
     "hmn_10560100001": "f600e4a05742a3b761293a316036d83b",
@@ -970,7 +970,8 @@
     "men_10710100002": "d64e4bb6f00c26045c550244cd1a7e86",
     "men_10720100001": "2f00a468e3949a44d4cc26ae2b253f5a",
     "men_10720100002": "9cb27df3bd401c62f151b5d0a39a0d5f",
-    "men_10720100003": "ec2443f9a23faa5916f4ba8c84748e08"
+    "men_10720100003": "ec2443f9a23faa5916f4ba8c84748e08",
+    "evs_10200070401": "5475a75f25459d6774faa7efe8f3d7af"
   },
   "add_on": {
     "ui_misc": "eebbe3579655e6b88103ca4631b669e6"
@@ -984,11 +985,12 @@
     "facility": "c3ca28db70beabbf10324dd741914c0e",
     "materials": "35bdb893a211c4ec7613a3eda1a1d24b",
     "mission": "0063f551dc9261f6a46f0d7295feaccf",
-    "system": "134f1c92c03a8406338e8174f53d7eea",
-    "ui_misc": "74f799de17c350739d2323c4ef6cfd47",
+    "system": "d7199d0edf3655ed3a327e92376f178e",
+    "ui_misc": "9b52426eade3d5d4d762ee5afc140d9f",
     "titles": "27eb5aa127514b3b5bdf85abd7682bb7"
   },
   "hash": "39dc5d0ea292229b827e36319ed5effe",
-  "titles": "b49e4488ecd9f4dd157726de088f2fb8",
-  "ability_descriptions": "833163ebf2376bb2046208371cc73cee"
+  "titles": "c048742fb386277be04f0ebbd39937e6",
+  "ability_descriptions": "833163ebf2376bb2046208371cc73cee",
+  "descriptions": "a29b60bfc8f994d99085b67a427f76b0"
 }
