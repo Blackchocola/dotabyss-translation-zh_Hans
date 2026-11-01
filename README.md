@@ -11,7 +11,7 @@
 
 ```ini
 [Translation]
-CDN = https://raw.githubusercontent.com/YOUR_NAME/dotabyss-translation-zh_Hans/main/translations
+CDN = [https://raw.githubusercontent.com/YOUR_NAME/dotabyss-translation-zh_Hans/main/translations](https://raw.githubusercontent.com/Blackchocola/dotabyss-translation-zh_Hans/main/translations)
 Language = zh_Hans
 Enabled = true
 ```
