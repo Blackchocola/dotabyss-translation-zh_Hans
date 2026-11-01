@@ -1,0 +1,2 @@
+# JSON 用 LF，减小 diff 噪音
+translations/**/*.json text eol=lf
