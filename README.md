@@ -11,7 +11,7 @@
 
 ```ini
 [Translation]
-CDN = [https://raw.githubusercontent.com/YOUR_NAME/dotabyss-translation-zh_Hans/main/translations](https://raw.githubusercontent.com/Blackchocola/dotabyss-translation-zh_Hans/main/translations)
+CDN = https://raw.githubusercontent.com/Blackchocola/dotabyss-translation-zh_Hans/main/translations
 Language = zh_Hans
 Enabled = true
 ```
@@ -19,7 +19,7 @@ Enabled = true
 GitHub 连不上时可用镜像：
 
 ```ini
-CDN = https://gh-proxy.com/https://raw.githubusercontent.com/YOUR_NAME/dotabyss-translation-zh_Hans/main/translations
+CDN = https://gh-proxy.com/https://raw.githubusercontent.com/Blackchocola/dotabyss-translation-zh_Hans/main/translations
 ```
 
 保存后重启游戏。
