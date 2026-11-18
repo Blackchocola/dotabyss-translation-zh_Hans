@@ -29,13 +29,13 @@ CDN = https://gh-proxy.com/https://raw.githubusercontent.com/Blackchocola/dotaby
 | 路径 | 内容 |
 |------|------|
 | `manifest/zh_Hans.json` | 各文件版本哈希 |
-| `novels/<场景ID>/zh_Hans.json` | 剧情对话（969 个场景） |
-| `names/zh_Hans.json` | 角色名（588 条） |
+| `novels/<场景ID>/zh_Hans.json` | 剧情对话（1183 个场景） |
+| `names/zh_Hans.json` | 角色名（649 条） |
 | `ui_texts/`, `m_*/` | 界面文字与各数据表（道具、技能、任务等） |
 | `other/<分类>/`, `add-on/<分类>/` | 机翻补充 / 社区人工校对 |
 | `titles/`, `ability_descriptions/` | 剧情标题、技能描述 |
 
-统计：1115 个文件，10.1 MB，生成于 2026-11-01。
+统计：1329 个文件，12.1 MB，生成于 2026-11-18。
 
 ## 说明
 
